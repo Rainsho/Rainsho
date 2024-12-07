@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://www.rainsho.cc/counter.svg)
+![Profile views](https://www.rainsho.fun/counter.svg)
 
 <!--
 **Rainsho/Rainsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
